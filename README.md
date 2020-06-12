@@ -1,4 +1,12 @@
 This is George Felton's submission for the refactoring a website homework assignment.
+Goal: Refactor an assignment for the marketing agency Horiseon, so that its homepage meets accessiblity standards.
+
+![Screenshot of part of the Horiseon Homepage.](../assets/images/horiseon-page-screenshot)
+
+-Overview (Goal for the project)
+-Screenshot of application
+-Link to deployment
+-Description of what the project is. You cannot just copy the homework assignment description.
 
 
 
