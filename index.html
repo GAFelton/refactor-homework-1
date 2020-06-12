@@ -4,11 +4,14 @@
 <head>
     <meta charset="UTF-8" />
     <link rel="stylesheet" href="./assets/css/reset.css">
+    <!-- Included reset.css for improved browser compatibility. -->
     <link rel="stylesheet" href="./assets/css/style.css">
-    <title>Horisean Homepage</title>
+    <title>Horisean Digital Marketing - Homepage</title>
+    <!-- Added a descriptive title.  -->
 </head>
 
 <body>
+    <!-- Changed div elements to semantic HTML elements to more clearly define the layout. -->
     <header class="header">
         <h1>Hori<span class="seo">seo</span>n</h1>
         <!-- The nav bar will to unique pages for our main business areas. These are placeholder links. -->
@@ -27,8 +30,9 @@
         </nav>
     </header>
     <figure class="hero" title="Image of a digital marketing team in a meeting."></figure>
+    <!-- Added alt text to the hero image and to the section images below. -->
     <article class="content clearfix">
-        <!-- This article contains the main blocks & images for each of our business areas. -->
+        <!-- This article contains the main blocks & images for each of our business areas. Added alt text to the images so that they are processed correctly by a screen reader. Consolidated CSS classes to reduce redundancy. -->
         <section class="content-block clearfix">
             <img src="./assets/images/search-engine-optimization.jpg" class="float-left" alt="Image of a notebook with key SEO concepts written on the cover." />
             <h2>Search Engine Optimization</h2>
@@ -52,7 +56,7 @@
         </section>
     </article>
     <aside class="benefits">
-        <!-- This aside contains the secondary offerings our company can provide. -->
+        <!-- This aside contains the secondary offerings our company can provide. Added empty alt attributes so that screen readers will ignore these elements and only read the text. Consolidated CSS classes to reduce redundancy. -->
         <section class="benefit-section">
             <h3>Lead Generation</h3>
             <img src="./assets/images/lead-generation.png" alt=""/>

@@ -77,7 +77,7 @@ p {
     overflow:auto
   }
 
-/* The content classes affect the content in the main <article>.  */
+/* The content classes affect the content in the main <article>. I consolidated the different block classes into one called ".content-block".  */
 .content {
     width: 75%;
     display: inline-block;
@@ -102,7 +102,7 @@ p {
     max-height: 200px;
 }
 
-/* The benefit classes affect the content in the <aside>. */
+/* The benefit classes affect the content in the <aside>. I consolidated the different block classes into one called ".benefit-section". */
 .benefits {
     margin-right: 20px;
     padding: 20px;
