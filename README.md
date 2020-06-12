@@ -1,7 +1,7 @@
 *This is George Felton's submission for the "refactoring a website" homework assignment.*
 # Goal: Refactor a website for the digital marketing agency Horiseon, so that its homepage meets accessiblity standards.
 
-![Screenshot of part of the Horiseon Homepage.](../assets/images/horiseon-page-screenshot.jpg)
+![Screenshot of part of the Horiseon Homepage.](/assets/images/horiseon-page-screenshot.jpg)
 
 [Link to the Deployed Page](https://gafelton.github.io/refactor-homework-1/
 )
